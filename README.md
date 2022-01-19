@@ -1,28 +1,26 @@
+<!--    Introduction   -->
+
 <h1 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">Hi, I'm Jason</h1>
 
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="210" />
 <p allign = "justify">Hi, my name is Jason 👋. I'm an experienced analyst and have recently completed an MSc in Computer Science from University College Dublin. I'm passionate about leveraging data analytical skills to improve corporate performance.</p>
 
 - 🏢 I’m currently on the job hunt
 - 📍 Based in Dublin, Ireland 
-- 👩🏻‍💻 I work using ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+- 👩🏻‍💻 I enjoy working with ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=plastic&logo=mysql)
+![R](https://img.shields.io/badge/-R-276DC3?style=plastic&logo=R&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
-![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<img align="right" src="https://komarev.com/ghpvc/?username=jasonballantyne&label=Profile%20views&color=1A5276&style=flat" alt="jasonballantyne" />
+- 📨 Email me at jason.ballantyne95@gmail.com
 
+<img align="right" src="https://komarev.com/ghpvc/?username=jasonballantyne&label=Profile%20views&color=1A5276&style=flat" alt="jasonballantyne" />
+<!--
+Use this when updating with repos
+<a href="https://github.com/alwinw?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
+-->
 <br>
 
+<!--    Socials   -->
 <h2  align="left">📫 Connect with me</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/jason-ballantyne/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -30,6 +28,7 @@
   <a href="mailto:jason.ballantyne95@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<!--    Technology, Tools & IDEs   -->
 <h2  align="left">🔧 Technologies & Tools</h2>
 <p align="center">
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="50px" height="50px"></a>
@@ -68,22 +67,8 @@
                  
 </p> 
 
-<!--
-**JasonBallantyne/JasonBallantyne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+<!--    Github Stats   -->
 <h2 align="left"> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="24">  Github Stats</h2>
 
 <br/>
