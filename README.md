@@ -18,7 +18,6 @@
 Use this when updating with repos
 <a href="https://github.com/alwinw?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
 -->
-<br>
 
 <!--    Socials   -->
 <h2  align="left">📫 Connect with me</h2>
@@ -63,16 +62,11 @@ Use this when updating with repos
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="40px" height="40px"/> </a>
 <a href="https://github.com/" title="GitHub"><img src="https://github.com/get-icon/geticon/blob/master/icons/github-icon.svg" alt="GitHub" width="40px" height="40px"/> </a>
 <a href="https://hadoop.apache.org/" title="Hadoop"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40px" height="40px"/></a>
-<a href="https://spark.apache.org/" title="Spark"><img src="https://github.com/valohai/ml-logos/blob/master/spark.svg" alt="Spark" width="40px" height="40px"/>
-                 
+<a href="https://spark.apache.org/" title="Spark"><img src="https://github.com/valohai/ml-logos/blob/master/spark.svg" alt="Spark" width="40px" height="40px"/>      
 </p> 
-
 
 <!--    Github Stats   -->
 <h2 align="left"> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="24">  Github Stats</h2>
-
-<br/>
-
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
