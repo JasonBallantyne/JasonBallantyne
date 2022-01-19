@@ -1,9 +1,12 @@
-<h1 align="left">Hi, I'm Jason 👋<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"></h1>
+<h1 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">Hi, I'm Jason</h1>
 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-<p allign = "justify">Hi, my name is Jason. I'm an experienced analyst and have recently completed an MSc in Computer Science from University College Dublin. I'm passionate about leveraging data analytical skills to improve corporate performance.</p>
+<p allign = "justify">Hi, my name is Jason 👋. I'm an experienced analyst and have recently completed an MSc in Computer Science from University College Dublin. I'm passionate about leveraging data analytical skills to improve corporate performance.</p>
 
+- 👩🏻‍💻 I’m currently on the job hunt
+- 📍 Based in Dublin, Ireland 
+- 👩🏻‍💻 I work using 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -12,7 +15,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<img align="right" src="https://komarev.com/ghpvc/?username=jasonballantyne&label=Profile%20views&color=0e75b6&style=flat" alt="jasonballantyne" />
+<img align="right" src="https://komarev.com/ghpvc/?username=jasonballantyne&label=Profile%20views&color=1A5276&style=flat" alt="jasonballantyne" />
 
 <br>
 
