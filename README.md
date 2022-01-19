@@ -4,9 +4,13 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <p allign = "justify">Hi, my name is Jason 👋. I'm an experienced analyst and have recently completed an MSc in Computer Science from University College Dublin. I'm passionate about leveraging data analytical skills to improve corporate performance.</p>
 
-- 👩🏻‍💻 I’m currently on the job hunt
+- 🏢 I’m currently on the job hunt
 - 📍 Based in Dublin, Ireland 
-- 👩🏻‍💻 I work using 
+- 👩🏻‍💻 I work using ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
+![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -85,10 +89,10 @@ Here are some ideas to get you started:
 <br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonBallantyne&theme=github_dark&layout=compact&langs_count=4&hide=html" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonBallantyne&theme=github_dark&layout=compact&langs_count=4&hide=html" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JasonBallantyne&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=issues" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=JasonBallantyne&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=issues" />
 </a>
 
 
