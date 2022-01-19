@@ -2,7 +2,7 @@
 
 <h1 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">Hi, I'm Jason</h1>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="200" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="190" />
 <p allign = "justify">Hi, my name is Jason 👋. I'm an experienced analyst and have recently completed an MSc in Computer Science from University College Dublin. I'm passionate about leveraging data analytical skills to improve corporate performance.</p>
 
 - 🏢 I’m currently on the job hunt
@@ -77,7 +77,7 @@ Use this when updating with repos
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonBallantyne&theme=github_dark&layout=compact&langs_count=4&hide=html" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=JasonBallantyne&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=issues" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JasonBallantyne&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=issues" />
 </a>
 
 
