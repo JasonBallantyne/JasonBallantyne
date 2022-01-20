@@ -73,7 +73,7 @@ Use this when updating with repos
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonBallantyne&theme=github_dark&layout=compact&langs_count=4&hide=html" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JasonBallantyne&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=issues&hide_rank=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JasonBallantyne&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=issues" />
 </a>
 </p> 
 
