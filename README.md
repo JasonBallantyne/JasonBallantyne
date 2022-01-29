@@ -44,7 +44,7 @@ Use this when updating with repos
 <a href="https://github.com/JasonBallantyne/DataAnalytics_PredictiveModels" title="Scikit-learn"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40px" height="40px"/></a>
 <a href="https://github.com/JasonBallantyne/DataAnalytics_Prep" title="NumPy"><img src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg" alt="NumPy" width="40px" height="40px"/></a>
 <a href="https://github.com/JasonBallantyne/BestBus/tree/main/data_analytics" title="Seaborn"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40px" height="40px"/> </a>
-<a href="https://github.com/JasonBallantyne/NaiveBayesFromScratch" title="Excel"><img src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-office-excel.svg" alt="Microsoft Excel" width="40px" height="40px"/>
+<a href="https://docs.google.com/spreadsheets/d/1o-6-ZkI7Wu1X3hu75sZG7PZniQ-0uF8n/edit?usp=sharing&ouid=102901173297124292331&rtpof=true&sd=true" title="Excel"><img src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-office-excel.svg" alt="Microsoft Excel" width="40px" height="40px"/>
 <a href="https://docs.google.com/presentation/d/1PoXmkoS6SRPpAWPqoX77auMtdZ4Bm2t8/edit?usp=sharing&ouid=102901173297124292331&rtpof=true&sd=true" title="Powerpoint"><img src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-office-powerpoint.svg" alt="Microsoft Powerpoint" width="40px" height="40px"/>
 <br>
 <a href="https://github.com/JasonBallantyne/wheelieGood" title="AWS"><img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" alt="AWS" width="40px" height="40px"></a>
