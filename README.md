@@ -3,7 +3,7 @@
 <h1 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">Hi, I'm Jason</h1>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/RLtLOG7bANqVjJZJEW/giphy.gif" height="190" />
-<p allign = "justify">Hi, my name is Jason 👋. I'm an experienced analyst and have recently completed an MSc in Computer Science from University College Dublin. I'm passionate about leveraging data analytical skills to improve corporate performance.</p>
+<p allign = "justify">Hi, my name is Jason 👋. I'm an experienced developer and have an MSc in Computer Science from University College Dublin. I'm passionate about leveraging data analytical skills to improve corporate performance.</p>
 
 - 🏢 I’m currently on the job hunt
 - 📍 Based in Dublin, Ireland 
@@ -55,7 +55,7 @@ Use this when updating with repos
 <a href="https://github.com/JasonBallantyne/BestBus" title="Heroku"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40px" height="40px"/></a>
 <br>
 <a href="https://github.com/JasonBallantyne/DataAnalytics_PredictiveModels" title="Jupyter"><img src="https://github.com/get-icon/geticon/blob/master/icons/jupyter.svg" alt="Jupyter" width="40px" height="40px"/>
-<a href="https://github.com/JasonBallantyne/BinaryEncoding" title="PyCharm"><img src="https://confluence.jetbrains.com/download/attachments/10422155/PYH?version=2&modificationDate=1449750902000&api=v2" alt="PyCharm" width="40px" height="40px"/>
+<a href="https://github.com/JasonBallantyne/BinaryEncoding" title="PyCharm"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="PyCharm" width="40px" height="40px"/>
 <a href="https://github.com/JasonBallantyne/BigDataStack" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="40px" height="40px"/>
 <a href="https://github.com/JasonBallantyne/SimpleGamesSystem" title="IntelliJ"><img src="https://github.com/get-icon/geticon/blob/master/icons/intellij-idea.svg" alt="IntelliJ" width="40px" height="40px"/>
 <a href="https://github.com/JasonBallantyne/EurostatCrime2019Analysis" title="RStudio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Antu_rstudio.svg/1200px-Antu_rstudio.svg.png" alt="RStudio" width="40px" height="40px"/>
