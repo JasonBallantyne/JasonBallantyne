@@ -2,7 +2,7 @@
 
 <h1 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45"> Hi, I'm Jason</h1>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/RLtLOG7bANqVjJZJEW/giphy.gif" height="190" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/RLtLOG7bANqVjJZJEW/giphy.gif" height="182" />
 <p allign = "justify">Hi, my name is Jason 👋. I'm an experienced developer with an MSc in Computer Science from University College Dublin. I'm passionate about leveraging data analytical skills to improve corporate performance.</p>
 
 - 🏢 I’m currently building out my Data Science Portfolio
