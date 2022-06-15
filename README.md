@@ -5,7 +5,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/RLtLOG7bANqVjJZJEW/giphy.gif" height="182" />
 <p allign = "justify">Hi, my name is Jason 👋. I'm an experienced developer with an MSc in Computer Science from University College Dublin. I'm passionate about leveraging data analytical skills to improve corporate performance.</p>
 
-- 🏢 I’m currently building out my Data Science Portfolio
+- 🏢 I’m currently building out my Portfolio
 - 📍 Based in Dublin, Ireland 
 - 👩🏻‍💻 I enjoy working with ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=plastic&logo=mysql)
