@@ -3,7 +3,7 @@
 <h1 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45"> Hi, I'm Jason</h1>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/RLtLOG7bANqVjJZJEW/giphy.gif" height="182" />
-<p allign = "justify">Hi, my name is Jason 👋. I'm a highly motivated and experienced data engineer with an MSc in Computer Science from University College Dublin. I'm passionate about leveraging data through applications of machine learning, statistics and predictive models to improve corporate performance. I have strong analytical abilities with excellent programming skills, and a passion for predictive analytics. Proven skills including database management, predictive modelling and data visualisation.
+<p allign = "justify">Hi, my name is Jason 👋. I'm a highly motivated and experienced data engineer with an MSc in Computer Science from University College Dublin. I'm passionate about leveraging data through applications of machine learning, statistics and predictive models to improve corporate performance. I have strong analytical abilities with excellent programming skills, and a passion for predictive analytics. Proven skills in database management, predictive modelling and data visualisation.
 </p>
 
 - 🏢 I’m currently a Cyber Security Data Engineer at Dell
