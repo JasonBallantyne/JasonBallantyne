@@ -7,7 +7,7 @@
 </p>
 
 - 🏢 I’m currently a Cyber Security Data Engineer at Dell
-- 📍 Based in Dublin, Ireland 
+- 📍 Based in Sydney, Australia 
 - 👩🏻‍💻 I enjoy working with ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=plastic&logo=mysql)
 ![R](https://img.shields.io/badge/-R-276DC3?style=plastic&logo=R&logoColor=white)
