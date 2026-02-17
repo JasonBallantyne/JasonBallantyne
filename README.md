@@ -6,7 +6,7 @@
 <p allign = "justify">Hi, my name is Jason 👋. I'm a highly motivated and experienced data engineer with an MSc in Computer Science from University College Dublin. I'm passionate about leveraging data through applications of machine learning, statistics and predictive models to improve corporate performance. I have strong analytical abilities with excellent programming skills, and a passion for predictive analytics. Proven skills in database management, predictive modelling and data visualisation.
 </p>
 
-- 🏢 I’m currently a Cyber Security Data Engineer at Dell
+- 🏢 I’m currently a Data Engineer
 - 📍 Based in Sydney, Australia 
 - 👩🏻‍💻 I enjoy working with ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=plastic&logo=mysql)
