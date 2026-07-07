@@ -3,15 +3,17 @@
 <h1 align="left"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45"> Hi, I'm Jason</h1>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/RLtLOG7bANqVjJZJEW/giphy.gif" height="182" />
-<p allign = "justify">Hi, my name is Jason 👋. I'm a highly motivated and experienced data engineer with an MSc in Computer Science from University College Dublin. I'm passionate about leveraging data through applications of machine learning, statistics and predictive models to improve corporate performance. I have strong analytical abilities with excellent programming skills, and a passion for predictive analytics. Proven skills in database management, predictive modelling and data visualisation.
+<p align="justify">Hi, my name is Jason 👋. I'm a highly motivated and experienced data engineer with an MSc in Computer Science from University College Dublin. I'm passionate about leveraging data through applications of machine learning, statistics and predictive models to improve corporate performance. I have strong analytical abilities with excellent programming skills, and a passion for predictive analytics. Proven skills in database management, predictive modelling and data visualisation.
 </p>
 
-- 🏢 I’m currently a Data Engineer
+- 🏢 I’m currently a Senior Data Engineer at V2 AI
 - 📍 Based in Sydney, Australia 
 - 👩🏻‍💻 I enjoy working with ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=plastic&logo=mysql)
 ![R](https://img.shields.io/badge/-R-276DC3?style=plastic&logo=R&logoColor=white)
-![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
+![Shell](https://img.shields.io/badge/-Shell-black?style=plastic&logo=Shell)
+![dbt](https://img.shields.io/badge/-dbt-FF694B?style=plastic&logo=dbt&logoColor=white)
+![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=plastic&logo=googlebigquery&logoColor=white)
 - 📨 Email me at jason.ballantyne95@gmail.com
 
 <img align="right" src="https://komarev.com/ghpvc/?username=jasonballantyne&label=Profile%20views&color=1A5276&style=flat" alt="jasonballantyne" />
@@ -78,4 +80,6 @@ Use this when updating with repos
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JasonBallantyne&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=issues&hide_rank=true" />
 </a>
 </p> 
+
+
 
